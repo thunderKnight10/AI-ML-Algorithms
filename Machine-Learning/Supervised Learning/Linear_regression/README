@@ -1,11 +1,12 @@
 
 """
-
-
 Linear Regression is used when you want to predict a numerical 
 value and you believe the relationship between your input features 
 and the target can be approximated by a straight line (or, for 
 multiple features, a linear combination).
+
+Simple Linear Regression --> Salary = b_0 + b_1(Experience) 
+One features → one prediction
 
 Real-world applications of Linear Regression
 

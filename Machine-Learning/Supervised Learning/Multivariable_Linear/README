@@ -1,0 +1,34 @@
+
+Multivariable Linear Regression is used when you want to predict a 
+target value using multiple independent features (input variables) 
+instead of just one.
+
+1.  What does it use?
+Instead of using just one input:
+Simple Linear Regression --> Salary = b_0 + b_1(Experience)
+
+
+One feature → one prediction
+You use several inputs:
+Multivariable Linear Regression
+
+Salary = b_0 +b_1(Experience)
+            +b_2(Education)
+            +b_3(Skills)
+            +b_4(WorkingHours)
+
+Multiple features → one prediction
+
+
+2. What datasets should you use?
+You need a dataset where one target column depends on multiple feature columns.Ex:
+
+	        Features (X)	                      Target (y)
+Experience, Education, Skills	                    Salary
+Area, Bedrooms, Bathrooms, Location             	Price
+Study Hours, Attendance, Previous Marks	            Final Score
+Age, Mileage, Brand, Engine Size	                Price
+Age, BMI, Children, Smoker	Insurance               Cost
+TV, Radio, Newspaper spending	                    Sales
+Income, Rent, Food, Transport	                    Savings
+
