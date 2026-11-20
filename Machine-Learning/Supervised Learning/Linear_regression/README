@@ -1,0 +1,39 @@
+
+"""
+
+
+Linear Regression is used when you want to predict a numerical 
+value and you believe the relationship between your input features 
+and the target can be approximated by a straight line (or, for 
+multiple features, a linear combination).
+
+Real-world applications of Linear Regression
+
+House Price Prediction --> 
+Predict the price of a house based on its size.
+X: House size → Y: House price
+
+
+Student Performance Prediction-->
+Estimate marks based on study hours.
+X: Study hours → Y: Exam marks
+
+Sales Prediction-->
+Estimate sales based on advertising expenditure.
+X: Advertising budget → Y: Sales revenue
+
+
+Temperature Analysis--> 
+Estimate temperature based on time or other relevant variables.
+X: Time → Y: Temperature
+
+Car Price Prediction--> 
+Predict a car's resale value using age, mileage, etc.
+X: Car features → Y: Resale price
+
+Energy Consumption Prediction--> 
+Estimate energy usage based on temperature, time, or building characteristics.
+X: Temperature → Y: Energy usage
+
+
+"""
